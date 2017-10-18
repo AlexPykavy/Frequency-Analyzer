@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\bin\Release\FrequencyAnalyzer.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\bin\Release\FrequencyAnalyzer.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\bin\Release\FrequencyAnalyzer.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\App.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer.g.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Release\FrequencyAnalyzer.csprojResolveAssemblyReference.cache

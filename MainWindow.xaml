@@ -1,0 +1,50 @@
+﻿<Window x:Class="FrequencyAnalyzer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrequencyAnalyzer"
+        mc:Ignorable="d"
+        Title="Frequency Analyzer" Height="350" Width="525">
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" AllowDrop="False">
+            <MenuItem Header="File">
+                <MenuItem Header="Create" Click="ButtonNewFile_Click"/>
+                <MenuItem Header="Open" Click="ButtonOpenFile_Click"/>
+                <MenuItem Header="Save" Click="ButtonSaveFile_Click"/>
+                <MenuItem Header="Save as ..." Click="ButtonSaveFileAs_Click"/>
+                <Separator />
+                <MenuItem Header="Exit" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Load" Click="ButtonAddText_Click"/>
+            <MenuItem Header="About" Click="About_Click"/>
+        </Menu>
+        <ToolBar DockPanel.Dock="Top" AllowDrop="False">
+            <Button Name="buttonNewFile" ToolTip="Create a new file" >
+                <Image Width="26" Height="20" Source="Resources\newFile.png" />
+            </Button>
+            <Button Name="buttonOpenFile" ToolTip="Open existing file">
+                <Image Width="26" Height="20" Source="Resources\openFile.png" />
+            </Button>
+            <Separator/>
+            <Button Name="buttonSaveFile" ToolTip="Save file">
+                <Image Width="26" Height="20" Source="Resources\saveFile.png" />
+            </Button>
+            <Button Name="buttonSaveFileAs" ToolTip="Save file as">
+                <Image Width="26" Height="20" Source="Resources\saveFileAs.png" />
+            </Button>
+            <Separator/>
+            <Button Name="buttonAddText" ToolTip="Add text to vocabulary">
+                <Image Width="26" Height="20" Source="Resources\addText.png" />
+            </Button>
+            <Label Content="Total amount:" />
+            <Label Name="TotalAmountLabel" Content="0" />
+            <Label Content="Filename:" />
+            <Label Name="FilenameLabel" />
+        </ToolBar>
+        <Grid Background="LightGray" AllowDrop="False">
+            <DataGrid x:Name="DataGrid" Margin="10" ColumnWidth="*" IsReadOnly="True" />
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\bin\Debug\FrequencyAnalyzer.exe.config
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\bin\Debug\FrequencyAnalyzer.exe
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\bin\Debug\FrequencyAnalyzer.pdb
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.g.resources
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.exe
+c:\users\user\documents\visual studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\FrequencyAnalyzer\FrequencyAnalyzer\obj\Debug\App.baml
